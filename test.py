@@ -2,4 +2,4 @@ hola = "hola mundo cruel"
 #print(hola)
 
 for letra in hola:
-  print(palabra)
+  print(letra)
