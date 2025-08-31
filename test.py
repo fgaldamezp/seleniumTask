@@ -1,5 +1,5 @@
 hola = "hola mundo cruel"
-print(hola)
+#print(hola)
 
-for palabra in hola:
+for letra in hola:
   print(palabra)
