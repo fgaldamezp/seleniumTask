@@ -1,6 +1,7 @@
 name: Run Selenium Test
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main   # o la rama donde trabajes
